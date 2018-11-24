@@ -37,5 +37,6 @@ weight = 5
 +++
 
 # Biography
-Dechao Tian is a Postdoctoral Research Associate of computational biology at Carnegie Mellon University.
-Dechao currently explores potential connections between the 3D chromosomal connectome and transcriptional regulation, aiming to discover interesting principal connections and develop algorithms. For example, he is interested in using latent Graphical models to infer direct transcriptional regulations.
+Dechao Tian is a Postdoctoral Research Associate at Computational Biology Department at Carnegie Mellon University.
+He currently develops statistical models and machine learning algorithms to explore the potential connections between the spatial chromatin organization and transcriptional regulation networks.
+His long-term goals is to study multi-modalities in the context of network systems biology.

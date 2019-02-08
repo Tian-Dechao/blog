@@ -10,28 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Gene regulatory network",
-    "Systems biology",
     "3D chromatin organization",
+    "Gene regulation",
+    "Systems biology",
     "Machine learning",
     "Statistics",
-    "Random matrix theory"
+    "Random matrix theory",
+    "Graph theory"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Statistics and Applied Probability"
-  institution = "National University of Singapore"
+  institution = "National University of Singapore, Singapore"
   year = 2015
 
 [[education.courses]]
   course = "MS in Probability and Mathematical Statistics"
-  institution = "Northeast Normal Univeristy"
+  institution = "Northeast Normal Univeristy, China"
   year = 2011
 
 [[education.courses]]
   course = "BS in Mathematics and Applied Mathematics"
-  institution = "Northeast Normal University"
+  institution = "Northeast Normal University, China"
   year = 2009
  
 +++
@@ -39,4 +40,4 @@ weight = 5
 # Biography
 Dechao Tian is a Postdoctoral Research Associate at Computational Biology Department at Carnegie Mellon University.
 He currently develops statistical models and machine learning algorithms to explore the potential connections between the spatial chromatin organization and transcriptional regulation networks.
-His long-term goals is to study multi-modalities in the context of network systems biology.
+His long-term goal is to integrate single-cell data from multiple modalities to systematically study complex biological systems.

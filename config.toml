@@ -52,11 +52,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Dechao Tian"
-  role = "Postdoctorial Research Associate in Computational Biology"
+  role = "Postdoctorial Research Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Carnegie Mellon University", url = "" } ]
+  organizations = [{name="Ma Laboratory", url='http://www.cs.cmu.edu/~jianma/'}, {name="Computational Biology Department", url='http://www.cbd.cmu.edu'}, { name = "Carnegie Mellon University", url = "https://www.cmu.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "DC-cbd.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -65,7 +65,7 @@ enableGitInfo = false
   email = "dechaotian@gmail.com"
   address = "5000 Forbes Ave GHC 7415, Pittsburgh, PA, 15213, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "412 583-6800"
+  phone = "(+1) 412 583-6800"
   #skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -278,36 +278,47 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Manuscripts"
+  url = "#manuscripts"
   weight = 2
 
+
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+  name = "Collaborations"
+  url = "#collaborations"
+  weight = 4
+
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+ [[menu.main]]
+    name = "CV"
+    url = "files/CV-Dechao-Tian.pdf"
+    weight = 6
+
+ [[menu.main]]
+    name = "Resume"
+    url = "files/Resume-Dechao-Tian.pdf"
+    weight = 6
 
 # Search.
 [params.search]

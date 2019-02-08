@@ -35,9 +35,11 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-**Tian D<sup>*</sup>**, Zhang R<sup>*</sup>, Zhang Y,  Ma J. MOCHI enables discovery of heterogeneous interactome modules in cell nucleu.
+**Tian D<sup>*</sup>**, Zhang R<sup>*</sup>, Zhang Y,  Ma J. MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome. [bioRxiv][1], doi: https://doi.org/10.1101/542092
 
 **Tian D<sup>*</sup>**, Zhu X<sup>*</sup>, Ma J. Diffdomains: model-based identification of significantly reshaped chromatin domains from Hi-C contact matrices between normal and disease conditions. 
 
 **Tian D**, Ma J. Exploiting the interplay between chromatin interactome and transcriptional regulatory network.
 
+\* co-first authors
+[1]: https://www.biorxiv.org/content/10.1101/542092v1

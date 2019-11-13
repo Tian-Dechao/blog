@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+hugo
 # Display available updates to Academic.
 cd themes/academic
 git fetch
@@ -8,3 +9,7 @@ cd ../../
 
 # Update Academic.
 git submodule update --remote --merge
+
+git add . 
+git commit -m 'test'
+git push

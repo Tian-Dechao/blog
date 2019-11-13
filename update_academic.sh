@@ -10,6 +10,12 @@ cd ../../
 # Update Academic.
 git submodule update --remote --merge
 
+cd ./public
 git add . 
 git commit -m 'test'
+git push
+
+cd ../
+git add . 
+git commit -m 'test2'
 git push

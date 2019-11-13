@@ -12,11 +12,11 @@ weight = 5
   interests = [
     "3D chromatin organization",
     "Gene regulation",
-    "Systems biology",
     "Machine learning",
     "Statistics",
     "Random matrix theory",
-    "Graph theory"
+    "Graph theory",
+    "Anomaly cluster detection"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,6 +38,6 @@ weight = 5
 +++
 
 # Biography
-Dechao Tian is a Postdoctoral Research Associate at Computational Biology Department at Carnegie Mellon University.
+Dechao Tian is a ORISE Fellow at Center for Disease Control and Prevention.
 He currently develops statistical models and machine learning algorithms to explore the potential connections between the spatial chromatin organization and transcriptional regulation networks.
 His long-term goal is to integrate single-cell data from multiple modalities to systematically study complex biological systems.

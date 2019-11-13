@@ -35,7 +35,7 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-**Tian D<sup>*</sup>**, Zhang R<sup>*</sup>, Zhang Y,  Ma J. MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome. [bioRxiv][1], resubmitted to *Genome Research* here
+**Tian D<sup>*</sup>**, Zhang R<sup>*</sup>, Zhang Y,  Ma J. MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome. [bioRxiv][1], resubmitted to *Genome Research*
 
 **Tian D<sup>*</sup>**, Zhu X<sup>*</sup>, Ma J.  Diffdomains: Discovery of statistically significantly reshaped chromatin domains using random matrix theory
 

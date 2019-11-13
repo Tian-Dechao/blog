@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Pittsburgh, PA"
   date_start = "2015-04-04"
-  date_end = ""
+  date_end = "2019-03-30"
   description = """
   Responsibilities include:
   

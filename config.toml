@@ -52,11 +52,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Dechao Tian"
-  role = "Postdoctorial Research Associate"
+  role = "ORISE Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [{name="Ma Laboratory", url='http://www.cs.cmu.edu/~jianma/'}, {name="Computational Biology Department", url='http://www.cbd.cmu.edu'}, { name = "Carnegie Mellon University", url = "https://www.cmu.edu" } ]
+  organizations = [{name="Center for Disease Control and Prevention", url='https://www.cdc.gov'}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "DC-cbd.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

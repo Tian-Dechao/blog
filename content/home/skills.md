@@ -28,6 +28,12 @@ weight = 7
   description = "100%"  
   
 [[feature]]
+  icon = "robot"
+  icon_pack = "far"
+  name = "Machine larning"
+  description = "100%"  
+  
+[[feature]]
   icon = "dna"
   icon_pack = "fas"
   name = "Genomics"
@@ -49,13 +55,6 @@ weight = 7
   icon = "linux"
   icon_pack = "fab"
   name = "Bash"
-  description = "100%"
-
-
-[[feature]]
-  icon = "sas"
-  icon_pack = "fas"
-  name = "SAS"
   description = "100%"
 
 +++

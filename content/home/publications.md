@@ -35,6 +35,8 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
+**Tian D<sup>*</sup>**, Zhang R<sup>*</sup>, Zhang Y,  Ma J. MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome. [bioRxiv][1], accepted by *Genome Research*
+
 **Tian D**, Gu Q, Ma J. Identifying gene regulatory network rewiring using latent differential graphical models. *Nucleic Acids Research*. 2016 Jul 4;44(17):e140-. [Link][3]
 
 Zhang, S<sup>*</sup>, **Tian, D<sup>*</sup>**, Tran, NH, Choi, KP, & Zhang, L (2014). Profiling the transcription factor regulatory networks of human cell types. *Nucleic Acids Research*, 42(20), 12380-12387. [Link][2]

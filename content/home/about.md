@@ -38,7 +38,7 @@ weight = 5
 +++
 
 # Biography
-Dechao Tian is an ORISE Fellow at the Center for Disease Control and Prevention.
+Dechao Tian is a Mathematical Statistician at the Center for Disease Control and Prevention.
 He currently develops statistical models and machine learning algorithms using linked genomic data and epidemiological data to identify anomaly clusters to triage outbreak investigation.
 He was a Postdoc at Carnegie Mellon University. He developed statistical models and machine learning algorithms to explore the potential connections between 3D chromatin organization and transcriptional regulation networks.
 His long-term goals include (1) develop novel algorithms to integrate multi-resolution data collected in multiple modalities in the context of genome biology; (2) apply proper statistical models and machine learning algorithms to solve meaningful questions encountered in the real world.

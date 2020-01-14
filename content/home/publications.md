@@ -35,7 +35,7 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-**Tian D>**, Zhang R, Zhang Y, Zhu X, Ma J. MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome. **Genome Research**. 2020. [link][4]
+**Tian D>**, Zhang R, Zhang Y, Zhu X, Ma J. MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome. **Genome Research**. 2020. [Link][4]
 
 **Tian D**, Gu Q, Ma J. Identifying gene regulatory network rewiring using latent differential graphical models. *Nucleic Acids Research*. 2016 Jul 4;44(17):e140. [Link][3]
 

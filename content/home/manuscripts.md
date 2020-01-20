@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-**Tian D**, Zhu X, Ma J.  Diffdomains enables detection of reshaped chromatin domains using random matrix theory.
+**Tian D**, Zhu X, Ma J.  Diffdomain enables detection of reshaped chromatin domains using random matrix theory.
 
 **Tian D**, Ma J. Exploiting the interplay between chromatin interactome and transcriptional regulatory network.
 

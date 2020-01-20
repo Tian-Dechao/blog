@@ -10,13 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "3D chromatin organization",
-    "Gene regulation",
-    "Machine learning",
-    "Statistics",
-    "Random matrix theory",
-    "Graph theory",
-    "Anomaly cluster detection"
+    "Machine learning application in biomedicine",
+    "Statistical modeling for data science",
+    "Computational biology, systems biology, and genomics"
   ]
 
 # List your qualifications (such as academic degrees).

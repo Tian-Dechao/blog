@@ -36,7 +36,8 @@ weight = 5
 # Biography
 Dechao Tian is a Mathematical Statistician at the Center for Disease Control and Prevention.
 He currently develops statistical models and machine learning algorithms using linked genomic data and epidemiological data to identify anomaly clusters to triage outbreak investigation.
-He was a Postdoctorial Fellow mentored by Dr. Jian Ma at Computational Biology Department at Carnegie Mellon University. He developed statistical models and machine learning algorithms to explore the interplay between 3D genome structures and transcriptional regulation.
+He was a Postdoctorial Fellow mentored by Dr. Jian Ma at the Computational Biology Department at Carnegie Mellon University. He developed statistical models and machine learning algorithms to explore the interplay between 3D genome structures and transcriptional regulation.
+Before that, he obtained his Ph.D. degree mentored by Dr. Kwok Pui Choi at the Department of Statistics and Applied Probability at National University of Singapore, Singapore.
 His long-term research is in machine learning, with a focus on developing network-based statistical models and machine learning algorithms to 
 address emerging computational challenges in analyzing large-scale, heterogeneous, and dynamic data from multiple modalities in the context of biomedical studies, in turn, to decipher the causalities between genomics and diseases and realize the potential of precision medicine.
 In his free time, he enjoys running, hiking, and playing tennis.

@@ -17,17 +17,17 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics and Applied Probability"
+  course = "Ph.D. in Statistics and Applied Probability"
   institution = "National University of Singapore, Singapore"
   year = 2015
 
 [[education.courses]]
-  course = "MS in Probability and Mathematical Statistics"
+  course = "M.S. in Probability and Mathematical Statistics"
   institution = "Northeast Normal Univeristy, China"
   year = 2011
 
 [[education.courses]]
-  course = "BS in Mathematics and Applied Mathematics"
+  course = "B.S. in Mathematics and Applied Mathematics"
   institution = "Northeast Normal University, China"
   year = 2009
  
@@ -36,6 +36,7 @@ weight = 5
 # Biography
 Dechao Tian is a Mathematical Statistician at the Center for Disease Control and Prevention.
 He currently develops statistical models and machine learning algorithms using linked genomic data and epidemiological data to identify anomaly clusters to triage outbreak investigation.
-He was a Postdoc at Carnegie Mellon University. He developed statistical models and machine learning algorithms to explore the potential connections between 3D chromatin organization and transcriptional regulation networks.
-His long-term goals include (1) develop novel algorithms to integrate multi-resolution data collected in multiple modalities in the context of genome biology; (2) apply proper statistical models and machine learning algorithms to solve meaningful questions encountered in the real world.
+He was a Postdoctorial Fellow mentored by Dr. Jian Ma at Computational Biology Department at Carnegie Mellon University. He developed statistical models and machine learning algorithms to explore the interplay between 3D genome structures and transcriptional regulation.
+His long-term research is in machine learning, with a focus on developing network-based statistical models and machine learning algorithms to 
+address emerging computational challenges in analyzing large-scale, heterogeneous, and dynamic data from multiple modalities in the context of biomedical studies, in turn, to decipher the causalities between genomics and diseases and realize the potential of precision medicine.
 In his free time, he enjoys running, hiking, and playing tennis.

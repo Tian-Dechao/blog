@@ -25,36 +25,36 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "90%"  
   
 [[feature]]
   icon = "robot"
   icon_pack = "far"
   name = "Machine larning"
-  description = "100%"  
+  description = "90%"  
   
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
   name = "Genomics"
-  description = "100%"
+  description = "90%"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "100%"
+  description = "90%"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "100%"
+  description = "90%"
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Bash"
-  description = "100%"
+  description = "90%"
 
 +++

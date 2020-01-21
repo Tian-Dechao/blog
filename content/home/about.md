@@ -18,17 +18,17 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Ph.D. in Statistics and Applied Probability"
-  institution = "National University of Singapore, Singapore"
+  institution = "[National University of Singapore](https://www.stat.nus.edu.sg), Singapore"
   year = 2015
 
 [[education.courses]]
   course = "M.S. in Probability and Mathematical Statistics"
-  institution = "Northeast Normal Univeristy, China"
+  institution = "[Northeast Normal Univeristy](http://math.nenu.edu.cn), China"
   year = 2011
 
 [[education.courses]]
   course = "B.S. in Mathematics and Applied Mathematics"
-  institution = "Northeast Normal University, China"
+  institution = "[Northeast Normal University](http://math.nenu.edu.cn), China"
   year = 2009
  
 +++

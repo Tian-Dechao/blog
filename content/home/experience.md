@@ -19,6 +19,19 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Mathematical Statistician"
+  company = "Centers for Disease Control and Prevention"
+  company_url = "https://www.cdc.gov/"
+  location = "Atlanta, GA"
+  date_start = "2019-04-16"
+  date_end = "2020-03-27"
+  description = """
+  Responsibilities include:
+  
+  * Develop advanced statistical models to integrate genomic and epidemiological data to detect anomaly disease clusters to triage foodborne outbreak detection  
+  * Develop R Shiny apps to facilate big data visualization and results presentation to promote communications with epidemiologists 
+  """
+[[experience]]
   title = "Postdoctoral Research Associate"
   company = "Ma Laboratory, Computaional Biology Department, Carnegie Mellon University"
   company_url = "https://www.cs.cmu.edu/~jianma/"

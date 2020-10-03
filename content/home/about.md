@@ -34,7 +34,7 @@ weight = 5
 +++
 
 # Biography
-Dechao Tian is a Mathematical Statistician at the Center for Disease Control and Prevention.
+Dechao Tian is a Associate Professor at the School of Public Health (Shenzhen), Sun Yat-sen University.
 He currently develops statistical models and machine learning algorithms using linked genomic data and epidemiological data to identify anomaly clusters to triage outbreak investigation.
 He was a Postdoctorial Fellow mentored by Dr. Jian Ma at the Computational Biology Department at Carnegie Mellon University. He developed statistical models and machine learning algorithms to explore the interplay between 3D genome structures and transcriptional regulation.
 Before that, he obtained his Ph.D. degree mentored by Dr. Kwok Pui Choi at the Department of Statistics and Applied Probability at National University of Singapore, Singapore.
